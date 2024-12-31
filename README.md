@@ -14,7 +14,7 @@ I done this before,if i am not mistaken that is "if":
 
 <img src="hereandthere/video.gif" alt="asa" width="768" />
 
-### a glasses is am lookinf for?
+### a glasses is all i am looking for?
 [![BTC Address](https://img.shields.io/badge/BTC-bc1q5vx0yrxnvs9mdx622qeeztr0gp4h5pftuuadn9-blue?style=flat-square)](https://www.blockchain.com/btc/address/bc1q5vx0yrxnvs9mdx622qeeztr0gp4h5pftuuadn9)  
 **Progress:**  
 `[⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀]` 0%  
