@@ -5,7 +5,8 @@
 
 <img src="hereandthere/Nara.jpg" alt="asa" width="768" />
 
-## About Me
+## I am too kind
+
 Hey, I'm Ken, a creator and innovator who loves experimenting with art, code, and anything that sparks creativity. I like to dive into projects that push the limits of imagination, while always staying true to my personal style.
 
 ## A way to get my things
