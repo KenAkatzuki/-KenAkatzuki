@@ -12,7 +12,7 @@ I done this before,if i am not mistaken that is "if":
 
 <img src="hereandthere/video.gif" alt="asa" width="768" />
 
-### Ones i know
+### ones i know
 Current Balance: **0 BTC**  
 Goal: **0.1 BTC**  
 Progress:  
@@ -20,7 +20,7 @@ Progress:
 
 ---
 
-### Its Use
+### its Use
 Current Balance: **0 ETH**  
 Goal: **1 ETH**  
 Progress:  
