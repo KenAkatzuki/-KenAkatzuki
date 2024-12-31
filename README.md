@@ -14,22 +14,28 @@ I done this before,if i am not mistaken that is "if":
 
 <img src="hereandthere/video.gif" alt="asa" width="768" />
 
-### a glasses is all i am looking for?
-[![BTC Address](https://img.shields.io/badge/BTC-bc1q5vx0yrxnvs9mdx622qeeztr0gp4h5pftuuadn9-blue?style=flat-square)](https://www.blockchain.com/btc/address/bc1q5vx0yrxnvs9mdx622qeeztr0gp4h5pftuuadn9)  
+- a glasses is all i am looking for?
+
+[![Bit Address](https://img.shields.io/badge/BTC-bc1q5vx0yrxnvs9mdx622qeeztr0gp4h5pftuuadn9-blue?style=flat-square)](https://www.blockchain.com/btc/address/bc1q5vx0yrxnvs9mdx622qeeztr0gp4h5pftuuadn9)  
+
 **Progress:**  
 `[⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀]` 0%  
 
 ---
 
-### are using me
-[![ETH Address](https://img.shields.io/badge/ETH-0x23eEe4d0de7D85fF6620a0BFD9A7534d978d29EF-purple?style=flat-square)](https://etherscan.io/address/0x23eEe4d0de7D85fF6620a0BFD9A7534d978d29EF)  
+- are using me
+
+[![Eth Address](https://img.shields.io/badge/ETH-0x23eEe4d0de7D85fF6620a0BFD9A7534d978d29EF-purple?style=flat-square)](https://etherscan.io/address/0x23eEe4d0de7D85fF6620a0BFD9A7534d978d29EF)  
+
 **Progress:**  
 `[⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀]` 0%  
 
 ---
 
-### faster faster 
-[![LTC Address](https://img.shields.io/badge/LTC-LS4bDqEAM6VQZPerzeguhAjWsLZwsWsLeg-green?style=flat-square)](https://blockchair.com/litecoin/address/LS4bDqEAM6VQZPerzeguhAjWsLZwsWsLeg)  
+- faster faster 
+
+[![Lite Address](https://img.shields.io/badge/LTC-LS4bDqEAM6VQZPerzeguhAjWsLZwsWsLeg-green?style=flat-square)](https://blockchair.com/litecoin/address/LS4bDqEAM6VQZPerzeguhAjWsLZwsWsLeg)  
+
 **Progress:**  
 `[█████████████⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀]` 29%  
 
