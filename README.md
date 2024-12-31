@@ -1,6 +1,6 @@
 [![My Room](https://img.shields.io/badge/My%20Room-%23FF0000.svg?style=for-the-badge&logo=https://github.com/KenAkatzuki/KenAkatzuki.github.io/blob/main/logo.png&logoColor=white)](https://KenAkatzuki.github.io)
 [![Testme117](https://img.shields.io/badge/Testme117-%23FFCC00.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@larchboy?feature=shared)
-![See And Learn](https://img.shields.io/badge/GitHub%20Pages-black?style=flat-square&logo=github&logoColor=green&link=https://github.com/KenAkatzuki/KenAkatzuki.github.io)
+![See](https://img.shields.io/badge/GitHub%20Pages-black?style=flat-square&logo=github&logoColor=green&link=https://github.com/KenAkatzuki/KenAkatzuki.github.io)
 
 # Welcome to Spaceship Nara
 
